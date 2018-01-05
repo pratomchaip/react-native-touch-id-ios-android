@@ -1,11 +1,8 @@
-# react-native-touch-sensor
+# react-native-touch-id-ios-android
 
-Bridging for accesing the Touch Sensor on both iOS and Android using TouchID and Android Fingerprint
+Bridging for accessing the touch/fingerprint reader on both iOS and Android using TouchID and Android Fingerprint
 
-# Installation
-
-`npm install -s react-native-touch-sensor`
-`react-native link react-native-touch-sensor`
+This is a fork from react-native-touch-sensor with a fix for RN047+.  
 
 # Android Setup
 
